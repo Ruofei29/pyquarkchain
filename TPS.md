@@ -33,7 +33,7 @@ pypy3 cluster.py --num_shards=512 --num_slaves=64 --root_block_interval_sec=60 -
 
 **Video URL**
 
-[URL for the video showing how you produced the above TPS.]
+https://youtu.be/g8l_TbWNwGw
 
 **Output From `stats` Tool**
 ```
